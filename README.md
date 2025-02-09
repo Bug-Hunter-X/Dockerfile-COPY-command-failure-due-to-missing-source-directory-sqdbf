@@ -1,0 +1,1 @@
+This repository demonstrates a common Dockerfile error and its solution. The bug involves the `COPY` instruction failing due to a missing source directory. The solution shows how to ensure the application is built before the image is created.
